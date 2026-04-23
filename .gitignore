@@ -1,0 +1,14 @@
+# Prerequisite build objects 
+obj/
+*.o
+
+# Compiled Executables
+*.exe
+*.out
+
+# Testing and temp files
+test.*
+
+# crap
+documentation/
+guides/
